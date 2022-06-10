@@ -9,6 +9,19 @@
 
 <br />
 
+<h2>Languages and Tools</h2>
+
+<div>
+  
+  <svg src="img/react-1.svg"></svg> 
+  <p>React</p>
+  
+</div>
+
+
+
+<br />
+
 <h1>Most recent Projects</h1>
 
 <div align="center"> 

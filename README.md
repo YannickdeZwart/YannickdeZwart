@@ -12,13 +12,15 @@
 <h2>Languages and Tools</h2>
 
 
-<img src="img/react.svg" width="30" />  React <img src="img/laravel.png" width="30" />  Laravel
-
-<img src="img/c#.png" width="30" />  C# <img src="img/java.svg" width="30" />  Java
-
-<img src="img/php.png" width="30" />  Php <img src="img/tailwind.png" width="30" />  Tailwind
-
-
+<div align="center"> 
+  <a href="https://reactjs.org" target="blank">React.js</a>
+  <a href="https://laravel.com" target="blank">Laravel</a>
+  <a href="https://www.php.net" target="blank">Php</a>
+  <a href="https://www.java.com/" target="blank">Java</a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="blank">C#</a>
+  <a href="https://vuejs.org" target="blank">Vue.js</a>
+  <a href="https://tailwindcss.com" target="blank">Tailwind</a>
+</div>
 
 
 <br />

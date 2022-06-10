@@ -1,4 +1,4 @@
-[![MasterHead](img/download.png)]((https://github.com/YannickdeZwart))
+[![MasterHead](img/header.png)]((https://github.com/YannickdeZwart))
 
 
 <h3>📖 Full stack Developer from the <a href="https://en.wikipedia.org/wiki/Netherlands" target="blank">Netherlands</a></h3>
@@ -11,12 +11,13 @@
 
 <h2>Languages and Tools</h2>
 
-<div>
-  
-  <svg src="img/react-1.svg"></svg> 
-  <p>React</p>
-  
-</div>
+
+<img src="img/react.svg" width="30" />  React <img src="img/laravel.png" width="30" />  Laravel
+
+<img src="img/c#.png" width="30" />  C# <img src="img/java.svg" width="30" />  Java
+
+<img src="img/php.png" width="30" />  Php <img src="img/tailwind.png" width="30" />  Tailwind
+
 
 
 

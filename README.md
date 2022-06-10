@@ -29,11 +29,11 @@
 
 <div align="center"> 
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YannickdeZwart&repo=SudokuSolver)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YannickdeZwart&repo=SudokuSolver)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YannickdeZwart&repo=SudokuSolver)](https://github.com/YannickdeZwart/SudokuSolver) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YannickdeZwart&repo=Quotes)](https://github.com/YannickdeZwart/Quotes)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YannickdeZwart&repo=TicTacToe-AI)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YannickdeZwart&repo=TicTacToe-AI)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YannickdeZwart&repo=TicTacToe-AI)](https://github.com/YannickdeZwart/TicTacToe-AI) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YannickdeZwart&repo=TicTacToe-AI)](https://github.com/YannickdeZwart/TicTacToe-AI)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YannickdeZwart&repo=Wordle)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YannickdeZwart&repo=Wordle)](https://github.com/anuraghazra/github-readme-stats) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YannickdeZwart&repo=Wordle)](https://github.com/YannickdeZwart/Wordle) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YannickdeZwart&repo=Wordle)](https://github.com/YannickdeZwart/Wordle) 
 
 </div> 
 

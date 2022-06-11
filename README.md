@@ -61,8 +61,7 @@
 
 <details>
 <summary>Certificates</summary>
-  <a href="#" target="blank">None</a> <br />
-  <a href="#" target="blank">None</a> <br />
+  <a href="https://freecodecamp.org/certification/fcc5e726bdf-f316-456d-997b-b895842c7216/javascript-algorithms-and-data-structures" target="blank">freeCodeCamp - JavaScript Algorithms and Data Structures</a> <br />
 </details>
 
 <br />

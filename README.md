@@ -22,6 +22,12 @@
   <a href="https://tailwindcss.com" target="blank">Tailwind</a>
 </div>
 
+<br />
+
+<details>
+  <summary><h1>Certificates</h1></summary>
+  <a href="https://freecodecamp.org/certification/fcc5e726bdf-f316-456d-997b-b895842c7216/javascript-algorithms-and-data-structures" target="blank">freeCodeCamp - JavaScript Algorithms and Data Structures</a> <br />
+</details>
 
 <br />
 
@@ -57,13 +63,6 @@
 
 </div>  
   
-<br />
-
-<details>
-<summary>Certificates</summary>
-  <a href="https://freecodecamp.org/certification/fcc5e726bdf-f316-456d-997b-b895842c7216/javascript-algorithms-and-data-structures" target="blank">freeCodeCamp - JavaScript Algorithms and Data Structures</a> <br />
-</details>
-
 <br />
 
 <h3 align="left">Connect with me:</h3>

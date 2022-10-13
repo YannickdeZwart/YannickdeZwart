@@ -5,7 +5,7 @@
 
 <h3>💡 I am currently in school at <a href="https://www.techniekcollegerotterdam.nl/locatie/sportlaan-15" target="blank">TCR Spijkenisse</a></h3>
 
-<h3>1️⃣7️⃣ years old</h2>
+<h3>1️⃣8️⃣ years old</h2>
 
 <br />
 

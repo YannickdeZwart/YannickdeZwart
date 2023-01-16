@@ -26,7 +26,7 @@
 
 <details>
   <summary><h1>Certificates</h1></summary>
-  <a href="https://freecodecamp.org/certification/fcc5e726bdf-f316-456d-997b-b895842c7216/javascript-algorithms-and-data-structures" target="blank">freeCodeCamp - JavaScript Algorithms and Data Structures</a> <br />
+  <a href="[https://freecodecamp.org/certification/fcc5e726bdf-f316-456d-997b-b895842c7216/javascript-algorithms-and-data-structures](https://www.freecodecamp.org/certification/Kynaj/javascript-algorithms-and-data-structures)" target="_blank">freeCodeCamp - JavaScript Algorithms and Data Structures</a> <br />
 </details>
 
 <br />

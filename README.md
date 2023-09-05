@@ -1,75 +1,16 @@
-[![MasterHead](img/header.png)]((https://github.com/YannickdeZwart))
+<h1 align="center">Hi 👋, My name is Yannick</h1>
+<h3 align="center">Full stack Developer from the Netherlands</h3>
 
+- 🔭 I’m currently working on **Chess engine**
 
-<h3>📖 Full stack Developer from the <a href="https://en.wikipedia.org/wiki/Netherlands" target="blank">Netherlands</a></h3>
+- 🌱 I’m currently learning **C#, Phython**
 
-<h3>💡 I am currently in school at <a href="https://www.techniekcollegerotterdam.nl/locatie/sportlaan-15" target="blank">TCR Spijkenisse</a></h3>
-
-<h3>1️⃣8️⃣ years old</h2>
-
-<br />
-
-<h2>Languages and Tools</h2>
-
-
-<div align="center"> 
-  <a href="https://reactjs.org" target="blank">React.js</a>
-  <a href="https://laravel.com" target="blank">Laravel</a>
-  <a href="https://www.php.net" target="blank">Php</a>
-  <a href="https://www.java.com/" target="blank">Java</a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="blank">C#</a>
-  <a href="https://vuejs.org" target="blank">Vue.js</a>
-  <a href="https://tailwindcss.com" target="blank">Tailwind</a>
-</div>
-
-<br />
-
-<details>
-  <summary><h1>Certificates</h1></summary>
-  <a href="https://www.freecodecamp.org/certification/Kynaj/javascript-algorithms-and-data-structures" target="_blank">freeCodeCamp - JavaScript Algorithms and Data Structures</a> <br />
-</details>
-
-<br />
-
-<h1>Most recent Projects</h1>
-
-<div align="center"> 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YannickdeZwart&repo=SudokuSolver)](https://github.com/YannickdeZwart/SudokuSolver) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YannickdeZwart&repo=Quotes)](https://github.com/YannickdeZwart/Quotes)
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YannickdeZwart&repo=TicTacToe-AI)](https://github.com/YannickdeZwart/TicTacToe-AI) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YannickdeZwart&repo=TicTacToe-AI)](https://github.com/YannickdeZwart/TicTacToe-AI)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YannickdeZwart&repo=Wordle)](https://github.com/YannickdeZwart/Wordle) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YannickdeZwart&repo=Wordle)](https://github.com/YannickdeZwart/Wordle) 
-
-</div> 
-
-<br />
-
-<h1>Stats</h1>
-
-<div align="center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YannickdeZwart&hide=issues) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YannickdeZwart&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>  
-
-<br />
-
-<h1>Trophies</h1>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YannickdeZwart&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-</div>  
-  
-<br />
+- 📫 How to reach me **yannickdezwart@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/yannick-dezwart-a3a11a177/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/ig.yannick/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://instagram.com/ig.yannick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig.yannick" height="30" width="40" /></a>
 </p>
 
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>

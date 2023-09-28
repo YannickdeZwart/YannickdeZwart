@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My name is Yannick</h1>
 <h3 align="center">Full stack Developer from the Netherlands</h3>
 
-- 🔭 I’m currently working on **Chess engine**
+- 🔭 I’m currently working on **Microsoft - Get started with C# Course**
 
 - 🌱 I’m currently learning **C#, Phython**
 

@@ -1,5 +1,7 @@
 # 💫 About Me:
-Full-Stack Web Developer 🌐 with a passion for AI Learning ⚛️, Laravel, C#, Java💻 Looking for New Opportunities 👍
+Full-Stack Web Developer 🌐
+with a passion for AI Learning ⚛️, Laravel, C#, Java💻
+Looking for New Opportunities 👍
 
 
 # 💻 Tech Stack:
